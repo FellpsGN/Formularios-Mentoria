@@ -44,6 +44,10 @@ fieldset {
     gap: 20px;
 }
 
+span {
+    color: #C1BCCC;
+}
+
 form fieldset legend {
     width: 100%;
     padding-bottom: 16px;
@@ -128,6 +132,10 @@ footer .button {
 
 footer .button:hover {
     background: #dd4c69;
+}
+
+span:hover {
+    color: #5e5d61;
 }
 
 body::before {
